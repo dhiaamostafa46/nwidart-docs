@@ -8,6 +8,8 @@ This package is a re-published, re-organised and maintained version of [pingpong
 
 With one big added bonus that the original package didn't have: **tests**.
 
+
+
 Find out why you should use this package in the article: [Writing modular applications with laravel-modules](https://nicolaswidart.com/blog/writing-modular-applications-with-laravel-modules).
 
 <div class="callout-block callout-success">
